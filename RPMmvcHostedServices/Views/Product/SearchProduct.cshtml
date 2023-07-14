@@ -1,0 +1,47 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model Search
+}
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-transparent box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Product Management</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link text-light">Hi @ViewBag.Name!</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Cart" asp-action="Index">Cart</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Wishlist" asp-action="Index">Wishlist</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+<div class="container">
+    <form action="/Product/SearchProductByName" method="post">
+        <h5 class="card-title text-white">Search Product By Name</h5>
+        <input type="text" asp-for="ProductName" placeholder="Product Name"/>
+        <button type="submit" class="btn btn-primary text-light">Search</button>
+    </form>
+</div>
+<div class="container">
+    <form action="/Product/SearchProductById" method="post">
+        <h5 class="card-title text-white">Search Product By Id</h5>
+        <input type="number" asp-for="ProductId" placeholder="Product Id" />
+        <button type="submit" class="btn btn-primary text-light">Search</button>
+    </form>
+</div>

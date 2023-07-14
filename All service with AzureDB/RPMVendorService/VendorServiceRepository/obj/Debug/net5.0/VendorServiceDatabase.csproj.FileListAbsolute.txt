@@ -1,0 +1,15 @@
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorServiceDatabase.deps.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorServiceDatabase.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorServiceDatabase.runtimeconfig.dev.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorServiceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\ref\VendorServiceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorServiceDatabase.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorServiceDatabase.csproj.AssemblyReference.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorServiceDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorServiceDatabase.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorServiceDatabase.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorServiceDatabase.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorServiceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\ref\VendorServiceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorServiceDatabase.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorServiceDatabase.genruntimeconfig.cache

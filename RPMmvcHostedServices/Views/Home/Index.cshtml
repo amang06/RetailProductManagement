@@ -1,0 +1,49 @@
+﻿@model RetailProductManagementMvc.Models.User
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-transparent box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Product Management</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Index">Login</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-9 col-md-7 col-lg-5 mx-auto">
+            <div class="card card-signin my-5">
+                <div class="card-body">
+                    <h5 class="card-title text-center">Sign In</h5>
+                    <form action="/Home/Index" method="post">
+                        <div class="form-label-group">
+                            <input type="text" asp-for="User_Name" id="username" class="form-control" placeholder="User Name" required autofocus>
+                        </div>
+                        <br />
+                        <div class="form-label-group">
+                            <input type="password" asp-for="Password" id="password" class="form-control" placeholder="Password" required>
+                        </div>
+                        <br />
+                        <button class="btn btn-lg btn-primary btn-block text-uppercase" type="submit">Sign in</button>
+
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

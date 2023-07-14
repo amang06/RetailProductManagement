@@ -1,0 +1,14 @@
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorSeviceDatabase.deps.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorSeviceDatabase.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorSeviceDatabase.runtimeconfig.dev.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorSeviceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\ref\VendorSeviceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\bin\Debug\net5.0\VendorSeviceDatabase.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorSeviceDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorSeviceDatabase.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorSeviceDatabase.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorSeviceDatabase.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorSeviceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\ref\VendorSeviceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorSeviceDatabase.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceDatabase\obj\Debug\net5.0\VendorSeviceDatabase.genruntimeconfig.cache

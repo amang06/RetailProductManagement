@@ -1,0 +1,59 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    @model List<Product>
+   
+}
+<header>
+    <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-dark bg-transparent box-shadow mb-3">
+        <div class="container">
+            <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Product Management</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link text-light">Hi @ViewBag.Name!</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Cart" asp-action="Index">Cart</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Wishlist" asp-action="Index">Wishlist</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link text-light" asp-area="" asp-controller="Home" asp-action="Logout">Logout</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<div class="container" align="center">
+    <a href="@Url.Action("SearchProduct", "Product")" class="btn btn-sm btn-primary" >Search Product</a>
+    <h6 class="display-4 text-white" >All Products</h6>
+    <div class="row">
+        @foreach (var p in Model)
+        {
+            <div class="col-md-3">
+                <div class="card mb-sm-3 shadow-sm">
+                    <img src="/img/@p.Image_Name" class="card-img-top" width="100%" height="200">
+                    <div class="card-body">
+                        <h5 class="card-title">@p.Product_Name</h5>
+                        <p class="card-text">@p.Description</p>
+                        <div class="btn-group">
+                            <a href="@Url.Action("ProductDetails", "Product", new { id = p.Product_Id })" class="btn btn-sm btn-outline-dark">Details</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        }
+    </div>
+
+</div>

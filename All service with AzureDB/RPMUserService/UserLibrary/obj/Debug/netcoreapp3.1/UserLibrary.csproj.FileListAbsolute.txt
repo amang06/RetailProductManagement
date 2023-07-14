@@ -1,0 +1,12 @@
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserLibrary.deps.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserLibrary.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserLibrary.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserLibrary.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserLibrary.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserLibrary.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserLibrary.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserLibrary.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserLibrary.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserLibrary.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserLibrary.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserLibrary.genruntimeconfig.cache

@@ -1,0 +1,189 @@
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\appsettings.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.exe
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.deps.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.runtimeconfig.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.runtimeconfig.dev.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\ref\VendorService.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorServiceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorServiceRepository.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorServiceDatabase.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorServiceRepository.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.csproj.AssemblyReference.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\staticwebassets\VendorService.StaticWebAssets.Manifest.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\staticwebassets\VendorService.StaticWebAssets.xml
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\scopedcss\bundle\VendorService.styles.css
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.RazorTargetAssemblyInfo.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.csproj.CopyComplete
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\ref\VendorService.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.genruntimeconfig.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\ref\VendorService.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\appsettings.Development.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\appsettings.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.exe
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.deps.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\ref\VendorService.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorService.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\VendorServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.MvcApplicationPartsAssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\staticwebassets\VendorService.StaticWebAssets.Manifest.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\staticwebassets\VendorService.StaticWebAssets.xml
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\scopedcss\bundle\VendorService.styles.css
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.RazorTargetAssemblyInfo.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.csproj.CopyComplete
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\obj\Debug\net5.0\VendorService.genruntimeconfig.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Humanizer.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\VendorService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\ref\VendorService.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\appsettings.Development.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\appsettings.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\VendorService.exe
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\VendorService.deps.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\VendorService.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\VendorService.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\VendorService.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\ref\VendorService.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\VendorService.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Humanizer.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\VendorServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\VendorServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.MvcApplicationPartsAssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.MvcApplicationPartsAssemblyInfo.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\staticwebassets\VendorService.StaticWebAssets.Manifest.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\staticwebassets\VendorService.StaticWebAssets.xml
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\scopedcss\bundle\VendorService.styles.css
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.RazorTargetAssemblyInfo.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.csproj.CopyComplete
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\obj\Debug\net5.0\VendorService.genruntimeconfig.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorService\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

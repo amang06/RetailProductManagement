@@ -1,0 +1,15 @@
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\bin\Release\net5.0\VendorServiceRepository.deps.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\bin\Release\net5.0\VendorServiceRepository.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\bin\Release\net5.0\VendorServiceRepository.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\bin\Release\net5.0\VendorServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\bin\Release\net5.0\ref\VendorServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\bin\Release\net5.0\VendorServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\obj\Release\net5.0\VendorServiceRepository.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\obj\Release\net5.0\VendorServiceRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\obj\Release\net5.0\VendorServiceRepository.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\obj\Release\net5.0\VendorServiceRepository.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\obj\Release\net5.0\VendorServiceRepository.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\obj\Release\net5.0\VendorServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\obj\Release\net5.0\ref\VendorServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\obj\Release\net5.0\VendorServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMVendorService\VendorServiceDatabase\obj\Release\net5.0\VendorServiceRepository.genruntimeconfig.cache

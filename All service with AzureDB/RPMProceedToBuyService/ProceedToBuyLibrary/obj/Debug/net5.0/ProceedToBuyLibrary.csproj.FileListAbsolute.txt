@@ -1,0 +1,60 @@
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.deps.json
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.runtimeconfig.json
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.runtimeconfig.dev.json
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.dll
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ref\ProceedToBuyLibrary.dll
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.pdb
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.csproj.AssemblyReference.cache
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.AssemblyInfoInputs.cache
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.AssemblyInfo.cs
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.csproj.CoreCompileInputs.cache
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.dll
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ref\ProceedToBuyLibrary.dll
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.pdb
+F:\Final Project Cognizant\New Repo\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.genruntimeconfig.cache
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.deps.json
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ref\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.pdb
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ref\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.pdb
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.genruntimeconfig.cache
+D:\repos\CTS FINAL PROJECT\proceedtobuyservice\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.deps.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ref\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ref\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.genruntimeconfig.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.deps.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\bin\Debug\net5.0\ref\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\bin\Debug\net5.0\ProceedToBuyLibrary.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\obj\Debug\net5.0\ref\ProceedToBuyLibrary.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProceedToBuyService\ProceedToBuyLibrary\obj\Debug\net5.0\ProceedToBuyLibrary.genruntimeconfig.cache

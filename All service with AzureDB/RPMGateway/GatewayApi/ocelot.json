@@ -1,0 +1,226 @@
+{
+  "Routes": [
+    //Product routes
+    {
+      "DownstreamPathTemplate": "/Product/GetAll",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproductservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/AllProducts",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Product/GetById/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproductservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/ProductById/{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Product/GetByName/{name}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproductservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/ProductByName/{name}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Product/AddRating",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproductservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/AddRating",
+      "UpstreamHttpMethod": [ "POST" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/Product/GetRatings/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproductservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/AllRatings/{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+
+
+    //Proceedtobuy routes
+    {
+      "DownstreamPathTemplate": "/ProceedToBuy/AddMiniUser",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproceedtobuyservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/AddMini",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/ProceedToBuy/PostWishList",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproceedtobuyservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/AddToWishlist",
+      "UpstreamHttpMethod": [ "POST" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/ProceedToBuy/PostCart",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproceedtobuyservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/AddToCart",
+      "UpstreamHttpMethod": [ "POST" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/ProceedToBuy/GetWishlistByUserId/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproceedtobuyservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/GetWishlist/{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/ProceedToBuy/GetCartByUserId/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproceedtobuyservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/GetCart/{id}",
+      "UpstreamHttpMethod": [ "GET" ],
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScopes": []
+      }
+    },
+    {
+      "DownstreamPathTemplate": "/ProceedToBuy/Apiworking",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmproceedtobuyservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/apiworking",
+      "UpstreamHttpMethod": [ "POST" ]     
+    },
+
+    //User service routes
+    {
+      "DownstreamPathTemplate": "/User/Authenticate/{username}/{password}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmuserservice.azurewebsites.net",
+          "Port": 80
+
+        }
+      ],
+      "UpstreamPathTemplate": "/Authenticate/{username}/{password}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/User/PostUser",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmuserservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/AddUser",
+      "UpstreamHttpMethod": [ "POST" ]
+    },
+    {
+      "DownstreamPathTemplate": "/User/GetUserByNameAndPass/{name}/{pass}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmuserservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/GetUser/{name}/{pass}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+
+
+    //Vendor service routes
+    {
+      "DownstreamPathTemplate": "/Vendor/GetStockByProductId/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmvendorservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/Stock/{id}",
+      "UpstreamHttpMethod": [ "GET" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Vendor/GetStockReplenishmentDateByProductId/{productId}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "rpmvendorservice.azurewebsites.net",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/RestockDate/{productId}",
+      "UpstreamHttpMethod": [ "GET" ]
+    }
+  ]
+}  

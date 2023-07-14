@@ -1,0 +1,24 @@
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.deps.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.genruntimeconfig.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.deps.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\bin\Debug\netcoreapp3.1\UserServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMUserService\UserLibrary\obj\Debug\netcoreapp3.1\UserServiceRepository.genruntimeconfig.cache

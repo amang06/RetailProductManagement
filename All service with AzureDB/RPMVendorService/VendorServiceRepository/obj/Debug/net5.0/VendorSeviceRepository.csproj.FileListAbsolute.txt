@@ -1,0 +1,15 @@
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\bin\Debug\net5.0\VendorSeviceRepository.deps.json
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\bin\Debug\net5.0\VendorSeviceRepository.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\bin\Debug\net5.0\ref\VendorSeviceRepository.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\bin\Debug\net5.0\VendorSeviceRepository.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\bin\Debug\net5.0\VendorSeviceDatabase.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\bin\Debug\net5.0\VendorSeviceDatabase.pdb
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\obj\Debug\net5.0\VendorSeviceRepository.csproj.AssemblyReference.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\obj\Debug\net5.0\VendorSeviceRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\obj\Debug\net5.0\VendorSeviceRepository.AssemblyInfoInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\obj\Debug\net5.0\VendorSeviceRepository.AssemblyInfo.cs
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\obj\Debug\net5.0\VendorSeviceRepository.csproj.CoreCompileInputs.cache
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\obj\Debug\net5.0\VendorSeviceRepository.csproj.CopyComplete
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\obj\Debug\net5.0\VendorSeviceRepository.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\obj\Debug\net5.0\ref\VendorSeviceRepository.dll
+C:\Users\yoges\OneDrive\Desktop\CTS_Final_Project\RetailProductManagement\VendorSeviceRepository\obj\Debug\net5.0\VendorSeviceRepository.pdb

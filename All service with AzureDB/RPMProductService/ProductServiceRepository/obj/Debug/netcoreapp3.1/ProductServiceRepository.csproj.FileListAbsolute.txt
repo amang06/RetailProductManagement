@@ -1,0 +1,36 @@
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.deps.json
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\Sonali branch\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.genruntimeconfig.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.deps.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\New Retail Product Management\RetailProductManagement\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.genruntimeconfig.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.deps.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.runtimeconfig.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.runtimeconfig.dev.json
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\bin\Debug\netcoreapp3.1\ProductServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.csprojAssemblyReference.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.AssemblyInfoInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.AssemblyInfo.cs
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.csproj.CoreCompileInputs.cache
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.dll
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.pdb
+D:\repos\CTS FINAL PROJECT\MicroServices\RPMProductService\ProductServiceRepository\obj\Debug\netcoreapp3.1\ProductServiceRepository.genruntimeconfig.cache
